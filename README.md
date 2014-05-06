@@ -29,7 +29,7 @@ Now, afer you installed the service successfully, In your Controller,
           echo $element->href . '<br/>';
       }
 
-Finally Notices,    
+Final Notices,    
 
     1 - Need some assistance in data scraping, web scraping using silex and simple_html_dom
     2 - You do have some problems implementing the service
