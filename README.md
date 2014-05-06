@@ -31,7 +31,7 @@ Now, afer you installed the service successfully, In your Controller,
 
 Finally Notices,    
 
-    1 - Want some assistance in data scraping, web scraping using silex and simple_html_dom
+    1 - Need some assistance in data scraping, web scraping using silex and simple_html_dom
     2 - You do have some problems implementing the service
 
 then cantact me at haffoudhimedtaieb@gmail.com, i will answer you as soon as possible.
