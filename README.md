@@ -4,9 +4,15 @@ integrating simple_html_dom in silex framework
 This is a simple silex service which integrates simple html dom into silex as a service .
 
 Install instruction : 
-
-    1 - Copy the folder Haffoudhi under the src file of your silex project.
-    2 - Register the new service in your bootstrap file $app->register(new Haffoudhi\Silex\SimpleHtmlDomServiceProvider());
+    
+    Via Composer :
+      1 - Add this line to composer file: "haffoudhi/simplehtmldom": "@dev"
+      2 - Then run composer update.
+      3 - Register the new service in your bootstrap file $app->register(new Haffoudhi\Silex\SimpleHtmlDomServiceProvider());
+      
+    Without Composer :
+      1 - Copy the folder Haffoudhi under the src file of your silex project.
+      2 - Register the new service in your bootstrap file $app->register(new Haffoudhi\Silex\SimpleHtmlDomServiceProvider());
     
 How to use : 
 
