@@ -1,5 +1,5 @@
 {
-    "name": "silex_simple_html_dom",
+    "name": "src/Haffoudhi",
     "description": "Simple html dom as a silex service",
     "keywords": ["silex", "htmldom", "simplehtmldom", "simple_html_dom"],
     "license": "MIT",
