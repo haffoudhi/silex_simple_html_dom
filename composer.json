@@ -1,0 +1,22 @@
+{
+    "name": "silex_simple_html_dom",
+    "description": "Simple html dom as a silex service",
+    "keywords": ["silex", "htmldom", "simplehtmldom", "simple_html_dom"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Haffoudhi Med Tayeb",
+            "homepage": "https://github.com/MeTheGhost/silex_simple_html_dom"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Haffoudhi\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
